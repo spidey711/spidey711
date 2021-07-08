@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, how's it going?
 
 - 🔭 I’m currently working on <a href="https://github.com/spidey711/Thwipper-bot">Thwipper</a>
 - 🌱 I’m currently learning Python!
