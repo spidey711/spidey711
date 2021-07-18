@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/spidey711/Thwipper-bot">Thwipper</a>!
 - 🌱 I’m currently learning Python
+- 💬 Ask me about Discord.py
 - ⚡ Fun fact: I love rock music and superheroes<br>
 
 ### Programming Languages:-
