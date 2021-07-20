@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/spidey711/Thwipper-bot">Thwipper</a>!
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Discord.py
-- ⚡ Fun fact: I love rock music and superheroes<br>
+- ⚡ Fun fact: I love rock music and Spider-Man<br>
 
 ### Programming Languages:-
 <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg"></img><br>
