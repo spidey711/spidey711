@@ -11,15 +11,11 @@
 <p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact&theme=midnight-purple"></img> 
 </p>
-<!--
+
 ### Programming Languages:-
 <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg"></img> 
 
 ### Current Tech:-
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg"></img><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg"></img><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg"></img> 
--->
-<p align="center">
-<a href="https://github.com/spidey711">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThatSpiderGuy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></img>
-</a>
-</p>
+
+
