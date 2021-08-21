@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I am a huge Spider-Man fan<br>
 
 <p align="left">
-![Github Stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=midnight-purple&show_icons=true&count_private=true)<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=spidey711&theme=midnight-purple&show_icons=true&count_private=true">Tamonud's GitHub Stats</img>
 </p>
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact&theme=midnight-purple) 
 <br>
