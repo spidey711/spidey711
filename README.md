@@ -5,9 +5,7 @@
 - 💬 Ask me about Discord.py
 - ⚡ Fun fact: I am a huge Spider-Man fan<br>
 
-<div class="Stats">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=midnight-purple&show_icons=true&count_private=true)<br>
-</div>
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact&theme=midnight-purple) 
 <br>
 
