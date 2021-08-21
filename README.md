@@ -20,6 +20,6 @@
 -->
 <p align="center">
 <a href="https://github.com/spidey711">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=spidey711&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></img>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThatSpiderGuy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></img>
 </a>
 </p>
