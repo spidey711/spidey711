@@ -5,7 +5,7 @@
 - 💬 Ask me about Discord.py
 - ⚡ Fun fact: I love rock music and Spider-Man<br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=monokai&show_icons=true&count_private=true)<br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=cyan&show_icons=true&count_private=true)<br>
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact) 
 <br>
 
