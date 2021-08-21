@@ -6,10 +6,11 @@
 - ⚡ Fun fact: I am a huge Spider-Man fan<br>
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=spidey711&theme=midnight-purple&show_icons=true&count_private=true">Tamonud's GitHub Stats</img>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=spidey711&theme=midnight-purple&show_icons=true&count_private=true"></img>
 </p>
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact&theme=midnight-purple) 
-<br>
+<p align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact&theme=midnight-purple"></img> 
+</p>
 
 ### Programming Languages:-
 <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg"></img> 
