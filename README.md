@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Discord.py
 - ⚡ Fun fact: I love rock music and Spider-Man<br>
-
-<img src="https://raw.githubusercontent.com/spidey711/master/https://thumbs.gfycat.com/DefenselessPlayfulFallowdeer-max-1mb.gif" width="30px">
 <!--
 ### Programming Languages:-
 <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg"></img><br>
@@ -14,4 +12,4 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg"></img><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg"></img><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg"></img> -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact) <br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=dark&show_icons=true&count_private=true)
