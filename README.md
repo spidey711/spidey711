@@ -11,5 +11,5 @@
 ### Current Tech:-
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg"></img><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg"></img><img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/devices/pc.svg"></img> -->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact) <br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=dracula&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=dracula&show_icons=true&count_private=true) <br>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact) 
