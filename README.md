@@ -1,4 +1,4 @@
-### Hey, my name is Tamonud👋🏻
+### Hello, I am Tamonud! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on <a href="https://github.com/spidey711/Thwipper-bot">Thwipper</a>!
 - 🌱 I’m currently learning Python
