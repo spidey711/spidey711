@@ -1,11 +1,11 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 ### Hey, my name is Tamonud👋🏻
 
 - 🔭 I’m currently working on <a href="https://github.com/spidey711/Thwipper-bot">Thwipper</a>!
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Discord.py
 - ⚡ Fun fact: I love rock music and Spider-Man<br>
+
+<img src="https://raw.githubusercontent.com/spidey711/master/https://thumbs.gfycat.com/DefenselessPlayfulFallowdeer-max-1mb.gif" width="30px">
 <!--
 ### Programming Languages:-
 <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg"></img><br>
