@@ -5,9 +5,9 @@
 - 💬 Ask me about Discord.py
 - ⚡ Fun fact: I love rock music and Spider-Man<br>
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=spidey711&theme=dracula&show_icons=true&count_private=true)<br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact) 
+<br>
 
 ### Programming Languages:-
 <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg"></img><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg"></img>
