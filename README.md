@@ -6,12 +6,11 @@
 - ⚡ Fun fact: I am a huge Spider-Man fan<br>
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=spidey711&theme=midnight-purple&show_icons=true&count_private=true"></img>
-</p>
-<p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidey711&layout=compact&theme=midnight-purple"></img> 
 </p>
-
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=spidey711&theme=midnight-purple&show_icons=true&count_private=true"></img>
+</p>
 
 <!-- ### Programming Languages:-
 <p align="center">
